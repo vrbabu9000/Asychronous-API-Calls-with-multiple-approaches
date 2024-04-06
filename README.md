@@ -6,6 +6,8 @@ In the pursuit of performance optimization and user experience enhancement, our 
 
 To address this challenge effectively, our strategy involved the implementation of asynchronous multi-threading techniques. This method enabled the simultaneous execution of all four API calls. Such an approach resulted in a significant reduction of overall latency to slightly more than the duration of the longest single API call. The outcomes of this project not only surpassed our initial expectations but also established a new standard for operational efficiency in our subsequent projects.
 
+#### Note that this works only for Independent API which can be multi-threaded. 
+
 ## Approaches
 
 ### Approach 1: Concurrent.futures
