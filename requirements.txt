@@ -1,0 +1,5 @@
+ibm-watson-machine-learning
+ibm_watson
+ibm_cloud_sdk_core
+asyncio
+futures
